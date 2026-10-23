@@ -1,0 +1,40 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1100" height="620" viewBox="0 0 1100 620" role="img">
+<title>Dossier d’assurance / Assurance package</title>
+<desc>Une simulation ne démontre pas toute la sécurité réelle / A simulation does not establish all real-world safety</desc>
+<rect width="1100" height="620" rx="22" fill="#f8fafc"/>
+<text x="40" y="55" font-family="DejaVu Sans,sans-serif" font-size="25" font-weight="bold" fill="#0f172a">Dossier d’assurance / Assurance package</text>
+<path d="M350,182.5 L400,182.5" fill="none" stroke="#2563eb" stroke-width="2.5"/>
+<polygon points="397.00,182.50 385.00,187.50 385.00,177.50" fill="#2563eb"/>
+<rect x="315.8" y="83" width="118.4" height="18" fill="#f8fafc"/>
+<text x="375.0" y="97" text-anchor="middle" font-family="DejaVu Sans,sans-serif" font-size="13" fill="#1e40af">réduire / reduce</text>
+<path d="M700,182.5 L750,182.5" fill="none" stroke="#2563eb" stroke-width="2.5"/>
+<polygon points="747.00,182.50 735.00,187.50 735.00,177.50" fill="#2563eb"/>
+<rect x="662.1" y="83" width="125.80000000000001" height="18" fill="#f8fafc"/>
+<text x="725.0" y="97" text-anchor="middle" font-family="DejaVu Sans,sans-serif" font-size="13" fill="#1e40af">décliner / derive</text>
+<path d="M900.0,235 L900.0,360" fill="none" stroke="#2563eb" stroke-width="2.5"/>
+<polygon points="900.00,357.00 895.00,345.00 905.00,345.00" fill="#2563eb"/>
+<rect x="826.0" y="271.5" width="148.0" height="18" fill="#f8fafc"/>
+<text x="900.0" y="285.5" text-anchor="middle" font-family="DejaVu Sans,sans-serif" font-size="13" fill="#1e40af">réaliser / implement</text>
+<path d="M750,412.5 L700,412.5" fill="none" stroke="#2563eb" stroke-width="2.5"/>
+<polygon points="703.00,412.50 715.00,407.50 715.00,417.50" fill="#2563eb"/>
+<rect x="662.1" y="313" width="125.80000000000001" height="18" fill="#f8fafc"/>
+<text x="725.0" y="327" text-anchor="middle" font-family="DejaVu Sans,sans-serif" font-size="13" fill="#1e40af">vérifier / verify</text>
+<path d="M400,412.5 L350,412.5" fill="none" stroke="#2563eb" stroke-width="2.5"/>
+<polygon points="353.00,412.50 365.00,407.50 365.00,417.50" fill="#2563eb"/>
+<rect x="308.4" y="313" width="133.20000000000002" height="18" fill="#f8fafc"/>
+<text x="375.0" y="327" text-anchor="middle" font-family="DejaVu Sans,sans-serif" font-size="13" fill="#1e40af">argumenter / argue</text>
+<rect x="50" y="130" width="300" height="105" rx="14" fill="white" stroke="#cbd5e1" stroke-width="2"/>
+<text x="200" y="183.0" text-anchor="middle" font-family="DejaVu Sans,sans-serif" font-size="19" fill="#0f172a">Danger / Hazard</text>
+<rect x="400" y="130" width="300" height="105" rx="14" fill="white" stroke="#cbd5e1" stroke-width="2"/>
+<text x="550" y="183.0" text-anchor="middle" font-family="DejaVu Sans,sans-serif" font-size="19" fill="#0f172a">Objectif / Goal</text>
+<rect x="750" y="130" width="300" height="105" rx="14" fill="white" stroke="#cbd5e1" stroke-width="2"/>
+<text x="900" y="183.0" text-anchor="middle" font-family="DejaVu Sans,sans-serif" font-size="19" fill="#0f172a">Exigences / Requirements</text>
+<rect x="50" y="360" width="300" height="105" rx="14" fill="white" stroke="#cbd5e1" stroke-width="2"/>
+<text x="200" y="413.0" text-anchor="middle" font-family="DejaVu Sans,sans-serif" font-size="19" fill="#0f172a">Décision / Decision</text>
+<rect x="400" y="360" width="300" height="105" rx="14" fill="white" stroke="#cbd5e1" stroke-width="2"/>
+<text x="550" y="413.0" text-anchor="middle" font-family="DejaVu Sans,sans-serif" font-size="19" fill="#0f172a">Preuves / Evidence</text>
+<rect x="750" y="360" width="300" height="105" rx="14" fill="white" stroke="#cbd5e1" stroke-width="2"/>
+<text x="900" y="413.0" text-anchor="middle" font-family="DejaVu Sans,sans-serif" font-size="19" fill="#0f172a">Mécanismes / Mechanisms</text>
+<text x="40" y="535" font-family="DejaVu Sans,sans-serif" font-size="16" fill="#334155">Une simulation ne démontre pas toute la sécurité réelle / A simulation does not establish all real-</text>
+<text x="40" y="558" font-family="DejaVu Sans,sans-serif" font-size="16" fill="#334155">world safety</text>
+</svg>

@@ -1,0 +1,36 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1100" height="620" viewBox="0 0 1100 620" role="img">
+<title>Autonomie théorique / Theoretical range</title>
+<desc>R = 1000 × Eusable[kWh] / c[Wh/km] = 160 km ; hypothèses / assumptions</desc>
+<rect width="1100" height="620" rx="22" fill="#f8fafc"/>
+<text x="40" y="55" font-family="DejaVu Sans,sans-serif" font-size="25" font-weight="bold" fill="#0f172a">Autonomie théorique / Theoretical range</text>
+<path d="M350,182.5 L400,182.5" fill="none" stroke="#2563eb" stroke-width="2.5"/>
+<polygon points="397.00,182.50 385.00,187.50 385.00,177.50" fill="#2563eb"/>
+<rect x="352.8" y="83" width="44.400000000000006" height="18" fill="#f8fafc"/>
+<text x="375.0" y="97" text-anchor="middle" font-family="DejaVu Sans,sans-serif" font-size="13" fill="#1e40af">26 kWh</text>
+<path d="M700,182.5 L750,182.5" fill="none" stroke="#2563eb" stroke-width="2.5"/>
+<polygon points="747.00,182.50 735.00,187.50 735.00,177.50" fill="#2563eb"/>
+<rect x="706.5" y="83" width="37.0" height="18" fill="#f8fafc"/>
+<text x="725.0" y="97" text-anchor="middle" font-family="DejaVu Sans,sans-serif" font-size="13" fill="#1e40af">× 0.8</text>
+<path d="M900.0,235 L900.0,360" fill="none" stroke="#2563eb" stroke-width="2.5"/>
+<polygon points="900.00,357.00 895.00,345.00 905.00,345.00" fill="#2563eb"/>
+<rect x="870.4" y="271.5" width="59.2" height="18" fill="#f8fafc"/>
+<text x="900.0" y="285.5" text-anchor="middle" font-family="DejaVu Sans,sans-serif" font-size="13" fill="#1e40af">20.8 kWh</text>
+<path d="M700,412.5 L750,412.5" fill="none" stroke="#2563eb" stroke-width="2.5"/>
+<polygon points="747.00,412.50 735.00,417.50 735.00,407.50" fill="#2563eb"/>
+<rect x="684.3" y="313" width="81.4" height="18" fill="#f8fafc"/>
+<text x="725.0" y="327" text-anchor="middle" font-family="DejaVu Sans,sans-serif" font-size="13" fill="#1e40af">÷ 130 Wh/km</text>
+<rect x="50" y="130" width="300" height="105" rx="14" fill="white" stroke="#cbd5e1" stroke-width="2"/>
+<text x="200" y="170.5" text-anchor="middle" font-family="DejaVu Sans,sans-serif" font-size="19" fill="#0f172a">Énergie brute / Gross</text>
+<text x="200" y="195.5" text-anchor="middle" font-family="DejaVu Sans,sans-serif" font-size="19" fill="#0f172a">energy</text>
+<rect x="400" y="130" width="300" height="105" rx="14" fill="white" stroke="#cbd5e1" stroke-width="2"/>
+<text x="550" y="170.5" text-anchor="middle" font-family="DejaVu Sans,sans-serif" font-size="19" fill="#0f172a">Fraction utile / Usable</text>
+<text x="550" y="195.5" text-anchor="middle" font-family="DejaVu Sans,sans-serif" font-size="19" fill="#0f172a">share</text>
+<rect x="750" y="130" width="300" height="105" rx="14" fill="white" stroke="#cbd5e1" stroke-width="2"/>
+<text x="900" y="170.5" text-anchor="middle" font-family="DejaVu Sans,sans-serif" font-size="19" fill="#0f172a">Énergie utile / Usable</text>
+<text x="900" y="195.5" text-anchor="middle" font-family="DejaVu Sans,sans-serif" font-size="19" fill="#0f172a">energy</text>
+<rect x="400" y="360" width="300" height="105" rx="14" fill="white" stroke="#cbd5e1" stroke-width="2"/>
+<text x="550" y="413.0" text-anchor="middle" font-family="DejaVu Sans,sans-serif" font-size="19" fill="#0f172a">Consommation / Consumption</text>
+<rect x="750" y="360" width="300" height="105" rx="14" fill="white" stroke="#cbd5e1" stroke-width="2"/>
+<text x="900" y="413.0" text-anchor="middle" font-family="DejaVu Sans,sans-serif" font-size="19" fill="#0f172a">Autonomie / Range</text>
+<text x="40" y="535" font-family="DejaVu Sans,sans-serif" font-size="16" fill="#334155">R = 1000 × Eusable[kWh] / c[Wh/km] = 160 km ; hypothèses / assumptions</text>
+</svg>
